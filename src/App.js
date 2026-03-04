@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import Dashboard from './dashboard/page';
 import { ToastProvider } from './components/toast/toast';
